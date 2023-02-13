@@ -13,13 +13,7 @@
 
 ✅ BADVPN PRO
 
-✅ MENU APACHE
-
-✅ PORTAS ORACLE AUTOMÁTICO
-
 ✅ MOSTRADOR DE CONSUMO
-
-✅ TCPTWEAKER
 
 
 ## :heavy_exclamation_mark: requisitos
