@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/PhoenixxZ2023/HYBRID/main/slowdns/install; chmod +x install; ./install
